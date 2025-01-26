@@ -1,0 +1,9 @@
+[submodule "client-gateway"]
+	path = client-gateway
+	url = https://github.com/mecyder/microservices-client-gateway
+[submodule "order-ms"]
+	path = order-ms
+	url = https://github.com/mecyder/microservices-order-ms
+[submodule "products-ms"]
+	path = products-ms
+	url = https://github.com/mecyder/microservices-products
